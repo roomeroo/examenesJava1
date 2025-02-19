@@ -1,0 +1,7 @@
+wire;cable;cablear;alambre
+speech;expresión;discurso
+kernel;núcleo;fruto
+toggle;conmutar;alternar
+run;correr;convocar
+bow;arco;inclinarse;reverencia;lazo
+carry;llevar;transportar;soportar
